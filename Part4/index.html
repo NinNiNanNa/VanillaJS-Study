@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<title>Momentum App</title>
+</head>
+<body>
+	<!-- 
+	<div id="login-form">
+		<input type="text" placeholder="What is your name?">
+		<button>Log in</button>
+	</div>
+	 -->
+	<form id="login-form" class="hidden"><!-- app4부터  class="hidden" 추가 되었음 -->
+		<!-- 
+			required : 폼 데이터(form data)가 서버로 제출되기 전 반드시 채워져 있어야 하는 입력 필드를 명시
+			maxlength : 입력할 수 있는 최대 문자수를 명시
+
+			input안에 있는 button을 누르거나 type이 submit인 input을 클릭하면 내가 작성한 form이 submit 됨
+
+			※ form안에서 엔터를 누르고 input이 더 존재하지않는다면 자동으로 submit된다.
+			※ form안에 있는 버튼을 눌렀을때, 이때도 form이 자동으로 submit된다.
+				=> form이 submit될 때마다 페이지는 새로고침이 됨
+		 -->
+		<input required maxlength="15" type="text" placeholder="What is your name?">
+		<button>Log in</button>
+	</form>
+	<!-- <script src="app1.js"></script> -->
+
+	<!-- <a href="https://nomadcoders.co">Go to courses</a> -->
+	<!-- <script src="app2.js"></script> -->
+
+	<h1 id="greeting" class="hidden"></h1>
+	<!-- <script src="app3.js"></script> -->
+	<!-- <script src="app4.js"></script> -->
+	<a href="javascript:;" id="logoutBtn" class="hidden">Logout</a>
+	<script src="app5.js"></script>
+</body>
+
+</html>
