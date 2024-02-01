@@ -3,8 +3,8 @@
 
 |이름|상세내용|
 |---|---|
-|Part2 <br> WELCOME TO JAVASCRIPT|자료형, 변수, 배열, 객체, 함수, Return, 조건부|
-|Part3 - JAVASCRIPT ON THE BROWSER|문서 객체, 자바스크립트의 HTML, 요소 검색, 이벤트, 추가 이벤트, 자바스크립트의 CSS|
+|Part2 <br> # WELCOME TO JAVASCRIPT|자료형<br>변수<br>배열<br>객체<br>함수<br>Return<br>조건부|
+|Part3 <br> # JAVASCRIPT ON THE BROWSER|문서 객체<br>자바스크립트의 HTML<br>요소 검색<br>이벤트<br>추가 이벤트<br>자바스크립트의 CSS|
 |Part4 - LOGIN|Input Values, Form Submission, Events, Getting Username, Saving Username, Loading Username|
 |Part5 - CLOCK|Intervals, Timeouts and Dates, PadStart|
 |Part6 - QUOTES AND BACKGROUND|Quotes, Background|
