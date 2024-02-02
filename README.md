@@ -2,7 +2,7 @@
 노마드코더 - 바닐라 JS 강의 공부 내용
 
 | 강의명 	| 파일명 	| 상세내용 	|
-|:---:	|:---:	|:---:	|
+|---	|---	|---	|
 | Part2<br>#2 WELCOME TO JAVASCRIPT 	| ✅ app1.js<br>✅ app2.js<br>✅ app3.js<br>✅ app4.js<br>✅ app5.js<br>✅ app6.js 	| ✅ 자료형, 변수<br>✅ 배열<br>✅ 객체<br>✅ 함수<br>✅ Return<br>✅ 조건문 	|
 | Part3<br>#3 JAVASCRIPT ON THE BROWSER 	| ✅ app1.js<br>✅ app2.js<br>✅ app3.js<br>✅ app4.js<br>✅ app5.js 	| ✅ HTML In Javascript<br>✅ Searching For Elements<br>✅ Events<br>✅ CSS in Javascript<br>✅ CSS in Javascript 	|
 | Part4<br>#4 LOGIN 	| ✅ app1.js<br>✅ app2.js<br>✅ app3.js<br>✅ app4.js<br>✅ app5.js 	| ✅ Input Values, Form submission<br>✅ Events<br>✅ Getting Username<br>✅ Saving Username, Loading Username<br>✅ Super Recap 	|
